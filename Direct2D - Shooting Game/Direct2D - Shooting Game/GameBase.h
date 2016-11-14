@@ -2,7 +2,7 @@
 #include "stdfx.h"
 #include <string>
 
-#define WINNAME (LPTSTR)(TEXT("ProJect D2D Shooting Game"))
+#define WINNAME (LPTSTR)(TEXT("D2D Game FrameWork"))
 #define WINSTYLE WS_OVERLAPPED| WS_CAPTION| WS_SYSMENU| WS_VISIBLE | WS_CLIPCHILDREN
 
 class GameBase

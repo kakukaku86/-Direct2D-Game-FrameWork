@@ -13,7 +13,7 @@
 #define WINSTARTX 0
 #define WINSTARTY 0
 #define WINSIZEX 600
-#define WINSIZEY 800
+#define WINSIZEY 600
 
 #define SAFE_DELETE(p)       { if(p) { delete (p);     (p)=NULL; } }
 #define SAFE_DELETE_ARRAY(p) { if(p) { delete[] (p);   (p)=NULL; } }
